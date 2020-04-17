@@ -1,6 +1,5 @@
 package com.cpn.aiithire.lnkinservice.resources;
 
-
 import com.cpn.aiithire.lnkinservice.domain.model.entity.Entity;
 import com.cpn.aiithire.lnkinservice.domain.model.entity.LnkProfile;
 import com.cpn.aiithire.lnkinservice.domain.service.LnkProfileService;
